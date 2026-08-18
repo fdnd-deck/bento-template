@@ -1,0 +1,3 @@
+# Ignore bento swap files
+.crswap
+*.crswap
